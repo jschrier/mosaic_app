@@ -2,11 +2,11 @@ An experiment revisiting my [mosaic material calculator](https://jschrier.github
 
 # See the results
 
-Deployed via [Github pages](https://docs.github.com/en/pages) as [https://jschrier.github.io/mosaic_app](https://jschrier.github.io/mosaic_app)
+Deployed via [Github pages](https://docs.github.com/en/pages) as [https://jschrier.github.io/mosaic_app](https://jschrier.github.io/mosaic_app) for the benefit of [crayonfou](http://crayonfou.com/)
 
 # Input prompts 
 
-(Rendered from the session log using [conex-timeline](https://tools.simonwillison.net/codex-timeline) )
+(Rendered from the session log using [codex-timeline](https://tools.simonwillison.net/codex-timeline) )
 
 ```
 <environment_context>
